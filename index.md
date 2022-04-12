@@ -236,11 +236,59 @@ for more information.
 
 <hr/>
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2>
+<h2 id="schedule" name="schedule">Training Materials and Schedule</h2>
 
-<p>
-  Please see <a href="{{ site.training_site }}">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
-</p>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1 (Tues, April 26)</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td><a href='https://carpentries.github.io/instructor-training/01-welcome/index.html' target='_blank'>Welcome</a></td> </tr>
+      <tr> <td>09:30</td> <td><a href='https://carpentries.github.io/instructor-training/02-practice-learning/index.html' target='_blank'>Building Skill with Practice</a> </td> </tr>
+      <tr> <td>10:30</td> <td>Break </td> </tr>
+      <tr> <td>10:45</td> <td><a href='https://carpentries.github.io/instructor-training/04-expertise/index.html' target='_blank'>Expertise and Instruction</a></td> </tr>
+      <tr> <td>11:30</td> <td><a href='https://carpentries.github.io/instructor-training/05-memory/index.html' target='_blank'>Memory and Cognitive Load</a> </td> </tr>
+      <tr> <td>12:10</td> <td><a href='https://carpentries.github.io/instructor-training/06-feedback/index.html' target='_blank'>Building Skill with Feedback</a> </td> </tr>
+      <tr> <td>12:30</td> <td>End of Day One</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2 (Wed, April 27)</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td><a href='https://carpentries.github.io/instructor-training/08-motivation/index.html' target='_blank'>Motivation and Demotivation</a></td> </tr>
+      <tr> <td>10:00</td> <td><a href='https://carpentries.github.io/instructor-training/09-eia/index.html' target='_blank'>Equity, Inclusion, and Accessibility</a></td> </tr>
+      <tr> <td>10:40</td> <td>Break </td> </tr>
+      <tr> <td>11:55</td> <td><a href='https://carpentries.github.io/instructor-training/11-practice-teaching/index.html' target='_blank'>Teaching is a Skill</a></td> </tr>
+      <tr> <td>11:55</td> <td><a href='https://carpentries.github.io/instructor-training/12-homework/index.html' target='_blank'>Wrap-Up and Homework</a></td> </tr>
+      <tr> <td>12:30</td> <td>End of Day Two</td> </tr>
+    </table>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 3 (Thurs, April 28)</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td><a href='https://carpentries.github.io/instructor-training/13-second-welcome/index.html' target='_blank'>Welcome Back</a></td> </tr>
+      <tr> <td>09:10</td> <td><a href='https://carpentries.github.io/instructor-training/14-checkout/index.html' target='_blank'>Getting Started on Instructor Certification</a></td> </tr>
+      <tr> <td>09:40</td> <td><a href='https://carpentries.github.io/instructor-training/15-carpentries/index.html' target='_blank'>The Carpentries: How We Operate</a> </td> </tr>
+      <tr> <td>10:25</td> <td>Break </td> </tr>
+      <tr> <td>10:40</td> <td><a href='https://carpentries.github.io/instructor-training/17-live/index.html' target='_blank'>Live Coding Is a Skill</a> </td> </tr>
+      <tr> <td>11:45</td> <td><a href='https://carpentries.github.io/instructor-training/18-preparation/index.html' target='_blank'>Preparing to Teach</a> </td> </tr>
+      <tr> <td>12:30</td> <td>End of Day Three</td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4 (Friday, April 29)</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td><a href='https://carpentries.github.io/instructor-training/20-performance/index.html' target='_blank'>More Practice Live Coding</a></td> </tr>
+      <tr> <td>09:45</td> <td><a href='https://carpentries.github.io/instructor-training/21-management/index.html' target='_blank'>Working With Your Team</a></td> </tr>
+      <tr> <td>10:55</td> <td>Break</td> </tr>
+      <tr> <td>11:10</td> <td><a href='https://carpentries.github.io/instructor-training/23-introductions/index.html' target='_blank'>Launches and Landings</a></td> </tr>
+      <tr> <td>11:50</td> <td><a href='https://carpentries.github.io/instructor-training/24-practices/index.html' target='_blank'>Putting it Together</a> </td> </tr>
+      <tr> <td>12:10</td> <td><a href='https://carpentries.github.io/instructor-training/25-wrap-up/index.html' target='_blank'>Wrapping Up</a> </td> </tr>
+      <tr> <td>12:30</td> <td>End of Training!</td> </tr>
+    </table>
+  </div>
+</div>
 
 
 <hr/>
